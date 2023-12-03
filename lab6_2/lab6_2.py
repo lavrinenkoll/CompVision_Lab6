@@ -88,5 +88,5 @@ def clustering_with_a_teacher (path, p):
         plt.imshow(img)
         plt.show()
 
-clustering_with_a_teacher('C:\Workspace/7semestr\compvision\lab6\lab6_2\Starter_set',
-                          'C:\Workspace/7semestr\compvision\lab6\lab6_2\Final_set/')
+clustering_with_a_teacher('Starter_set',
+                          'Final_set/')
